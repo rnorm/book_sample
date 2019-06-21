@@ -1,3 +1,3 @@
 # Another Book on Data Science
 
-The book is on https://www.anotherbookondatascience.com/
+The book is now available on https://www.anotherbookondatascience.com/
